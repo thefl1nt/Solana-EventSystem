@@ -92,10 +92,3 @@ Events are matched by exact class type only
 Author
 
 Fl1ntDev
-
-
-3. Сделай:
-```bash
-git add README.md
-git commit -m "add README"
-git push
